@@ -1,0 +1,39 @@
+{
+    "sigir-20141": {
+        "summary": "A 58-year-old African-American woman with a history of hypertension and obesity presented with new-onset episodic chest pain radiating to the back, accompanied by nausea, diaphoresis, and mild dyspnea. The pain is pressing/burning in nature and started during physical activity. She has no history of smoking, diabetes, hypercholesterolemia, or familial heart disease. Her EKG shows nonspecific changes.",
+        "conditions": [
+            "Chest pain",
+            "Hypertension",
+            "Obesity",
+            "Radiating chest pain",
+            "Nausea",
+            "Diaphoresis",
+            "Dyspnea",
+            "Non-specific EKG changes",
+            "African-American",
+            "Female",
+            "Acute coronary syndrome",
+            "Coronary artery disease",
+            "Myocardial infarction",
+            "Angina",
+            "Heart disease",
+            "Cardiovascular risk factors",
+            "Stress-induced cardiomyopathy",
+            "Coronary artery spasm",
+            "Cardiac ischemia",
+            "Physical activity-related chest pain",
+            "No history of smoking",
+            "No diabetes",
+            "No hypercholesterolemia",
+            "No family history of heart disease",
+            "No current medications",
+            "Middle-aged woman",
+            "Emergency room presentation",
+            "Episodic symptoms",
+            "Pressing/burning pain",
+            "Pain on exertion",
+            "Symptoms without increased inspiration",
+            "Symptoms with back radiation"
+        ]
+    }
+}
